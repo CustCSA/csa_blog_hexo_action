@@ -806,10 +806,25 @@ webcache: https://npm.webcache.cn/ # 仅针对npm加速
 用户可根据网络状况自行切换 CDN 源。
 </details>
 
-## 贡献者
+## 自动化blog指南
+
+请将pr提交到dev分支中
+如果要写文件，请在/_posts文件夹下新建你的文件夹，并在该文件夹下编写
+文件为markdown格式，请以以下格式开头
+```
+---
+title: 名字
+date: 2024-12-26 20:04:00 #时间
+tags:
+  - 标签1
+  - 标签2 #以此内推
+categories:
+  - Yohane-Mashiro #只写你的github用户名，请勿写多余的归档
+---
+```
 
 ## 贡献者
 
 <a href="https://github.com/Yohane-Mashiro">
-  <img src="https://avatars.githubusercontent.com/u/78677516?v=4" alt="Yohane-Mashiro" style="border-radius: 50%;" width="100" />
+  <img src="https://avatars.githubusercontent.com/u/78677516?v=4" alt="Yohane-Mashiro" style="border-radius: 50%;" width="50" />
 </a>
