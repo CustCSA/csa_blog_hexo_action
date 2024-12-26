@@ -1,6 +1,7 @@
 ---
 title: 目录爆破工具
 date: 2024-12-26 20:04:00
+cover: https://avatars.githubusercontent.com/u/78677516?v=4
 tags:
   - ctf工具
 categories:
@@ -9,8 +10,10 @@ categories:
 
 # dir-blast （目录爆破）
 
+闲的发慌，顺手做了这个小工具
+项目地址：[Ciallo～(∠・ω＜)⌒☆](https://github.com/Yohane-Mashiro/dir-blast)
 一个用于 CTF 的快速目录扫描工具
-
+希望有用吧
 ```
 --------------------------------------------------------------
 |      _   _                  _       _                 _    |
@@ -32,7 +35,7 @@ categories:
 
 1. 克隆仓库到本地：
     ```sh
-    git clone https://github.com/xcx2006/dir-blast.git
+    git clone https://github.com/Yohane-Mashiro/dir-blast.git
     ```
 2. 进入项目目录：
     ```sh
@@ -49,7 +52,7 @@ categories:
 
 ### 使用 Release
 
-你也可以从 [Release 页面](https://github.com/Shindou-Ayane/dir-blast/releases) 下载最新的可执行文件。
+你也可以从 [Release 页面](https://github.com/Yohane-Mashiro/dir-blast/releases) 下载最新的可执行文件。
 
 ## 参数说明
 
