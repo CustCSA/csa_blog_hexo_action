@@ -817,7 +817,7 @@ title: 名字
 date: 2024-12-26 20:04:00 #时间
 tags:
   - 标签1
-  - 标签2 #以此内推
+  - 标签2 #以此类推
 categories:
   - Yohane-Mashiro #只写你的github用户名，请勿写多余的归档
 ---
