@@ -1,13 +1,7 @@
 name: 自动部署
-# 当有改动推送到master分支时，启动Action
+# 手动触发Action
 on:
-  push:
-    branches:
-      - main
-
-  release:
-    types:
-      - published
+  workflow_dispatch:
 
 jobs:
   deploy:
