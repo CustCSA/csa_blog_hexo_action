@@ -10,7 +10,7 @@ categories:
 cover: https://avatars.githubusercontent.com/u/78677516?v=4
 ---
 
-# 转载自 [とある晨曦の幻想乡](https://blog.starlit.icu/2025/01/02/web/ssrf/%E7%AE%80%E4%BB%8B/)
+转载自[とある晨曦の幻想乡](https://blog.starlit.icu/2025/01/02/web/ssrf/%E7%AE%80%E4%BB%8B/)
 
 ### 1. **file:// 协议**
 
