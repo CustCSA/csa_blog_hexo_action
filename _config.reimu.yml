@@ -141,7 +141,7 @@ font:
     - Noto Serif SC
   code:
     # - Ubuntu Mono
-    # - Source Code Pro
+     - Source Code Pro
     # - JetBrains Mono
 
 # Local FallBack Font
