@@ -116,3 +116,8 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
+search:
+  path: search.json # 文件名必须为search.json
+  field: post
+  content: true
