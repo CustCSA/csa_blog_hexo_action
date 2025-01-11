@@ -75,7 +75,7 @@ echo intval(array('foo', 'bar'));     // 1
 ?>
 ```
 
-``` payload:
+```payload
 num[]=1
 ```
 
@@ -110,7 +110,7 @@ if(isset($_GET['num'])){
 }
 ```
 
-``` payloads:
+```payloads
 num=0x117c
 num=4476a
 ```
@@ -148,7 +148,7 @@ else{
 ```
 im模式是可以匹配很多行
 i模式只能匹配一行
-``` payloads:
+```payloads
 cmd=php%0a1
 cmd=%0aphp
 ```
